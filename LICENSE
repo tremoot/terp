@@ -1,0 +1,175 @@
+Terp License
+Version 1.0 — DRAFT
+
+NOTICE: This is a draft that has not yet been reviewed by a lawyer. Until a
+final version is published, Tremoot reserves all rights not expressly granted
+below.
+
+Copyright (c) 2026 Tremoot. All rights reserved.
+
+Terp is source-available software. It is NOT open source software. You may
+read and evaluate the source code, but production use requires a separate
+license from Tremoot.
+
+
+1. Definitions
+
+"Tremoot" means [legal entity name, registered office and Chamber of Commerce
+(KvK) number], the owner and maintainer of the Software.
+
+"Software" means the Terp source code, object code, documentation and any
+other material in this repository, including any modification or derivative
+work of it, except for Excluded Components.
+
+"Excluded Components" means (a) files in a directory that contains its own
+license file, which are licensed under that license file, and (b) third-party
+components, which remain under their own licenses as listed in
+THIRD-PARTY-NOTICES.
+
+"You" means the individual or legal entity exercising rights under this
+license, and "Your Organization" means You together with every entity that
+controls, is controlled by, or is under common control with You.
+
+"Non-Production Use" means use solely for testing, development, evaluation or
+demonstration, in which the Software does not serve real end users, does not
+process real (non-test) data, and does not support any business, operational
+or public service.
+
+"Production Use" means any use that is not Non-Production Use.
+
+"Non-Profit Organization" means [DEFINITION TO BE DETERMINED — for example: an
+organization recognized as a charitable institution under applicable law, such
+as an ANBI in the Netherlands, excluding government bodies, healthcare
+institutions and educational institutions unless Tremoot agrees otherwise in
+writing].
+
+"Production License" means a separate written license agreement between You
+and Tremoot that permits Production Use.
+
+"Fork" means any copy of the Software, modified or not, that is published,
+distributed, made available to third parties, or maintained as a separate
+project or product, other than as permitted in section 4.
+
+
+2. What You may do
+
+Subject to the conditions of this license, Tremoot grants You a personal,
+non-exclusive, non-transferable, non-sublicensable, revocable license to:
+
+a. view, read and audit the source code of the Software;
+
+b. use the Software for Non-Production Use within Your Organization;
+
+c. modify the Software for Non-Production Use within Your Organization,
+   provided that You do not distribute or publish those modifications other
+   than as a contribution under section 5.
+
+
+3. Production Use
+
+a. Any Production Use of the Software requires a valid Production License from
+   Tremoot. This applies to everyone, regardless of size, sector or purpose.
+
+b. A Non-Profit Organization may apply to Tremoot for a Production License free
+   of charge. Tremoot decides on such applications and may attach conditions to
+   them. Until such a Production License has been granted in writing, the
+   Non-Profit Organization may only use the Software for Non-Production Use.
+
+c. Offering the Software, or any functionality of it, to third parties as a
+   hosted, managed or otherwise provided service requires a Production License
+   that explicitly permits this.
+
+
+4. Forks
+
+a. You may not create, publish, distribute or maintain a Fork without prior
+   written permission from Tremoot.
+
+b. Tremoot acknowledges that the terms of service of the platform hosting this
+   repository may allow users to create a copy of a public repository on that
+   platform (for example, a GitHub "fork"). Such a copy is permitted solely to
+   view the Software and to prepare and submit contributions to the official
+   repository under section 5. It grants no other rights, and all restrictions
+   of this license apply to it.
+
+
+5. Contributions
+
+Tremoot only accepts contributions (such as pull requests, patches and
+suggestions) from contributors who have signed Tremoot's Contributor License
+Agreement (CLA). By submitting a contribution You confirm that You have signed
+the CLA.
+
+
+6. Restrictions
+
+Unless permitted in a Production License or other written agreement with
+Tremoot, You may not:
+
+a. distribute, sell, rent, lease, sublicense or otherwise make the Software
+   available to third parties;
+
+b. use the Software, or knowledge of its non-public design obtained from the
+   source code, to develop, offer or support a product or service that
+   competes with the Software;
+
+c. remove, disable, circumvent or alter any license key, license check or
+   other technical protection measure in the Software;
+
+d. remove or alter any copyright, license or trademark notice in the Software.
+
+
+7. No conversion to open source
+
+No version of the Software will automatically become available under an open
+source license, regardless of how much time has passed. Tremoot may publish
+new versions of this license; versions of the Software released before such a
+change remain under the license that applied to them, unless You choose to
+accept the new version.
+
+
+8. Trademarks
+
+This license grants no rights to use the names "Terp" or "Tremoot", or any
+related logos or trademarks, except to accurately identify the origin of the
+Software.
+
+
+9. Termination
+
+This license terminates automatically if You breach any of its terms. Upon
+termination You must immediately stop all use of the Software and destroy all
+copies in Your possession or control. Sections 4, 6, 8, 10, 11 and 12 survive
+termination.
+
+
+10. Disclaimer of warranty
+
+To the maximum extent permitted by applicable law, the Software is provided
+"as is", without warranty of any kind, express or implied, including but not
+limited to warranties of merchantability, fitness for a particular purpose and
+non-infringement. Warranties, if any, are provided only in a Production
+License.
+
+
+11. Limitation of liability
+
+To the maximum extent permitted by applicable law, Tremoot is not liable for
+any damages arising from or related to the Software or this license, including
+direct, indirect, incidental, consequential or special damages and loss of
+data, profits or revenue, except in the case of intent or deliberate
+recklessness (opzet of bewuste roekeloosheid) on the part of Tremoot's
+management.
+
+
+12. Governing law and jurisdiction
+
+This license is governed by the laws of the Netherlands. Any dispute arising
+from or related to this license is submitted exclusively to the competent
+court in [city], the Netherlands.
+
+
+13. Contact
+
+For Production Licenses, Non-Profit applications, permission to Fork and other
+questions about this license, contact Tremoot at [licensing contact].
