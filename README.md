@@ -4,7 +4,7 @@
 
 Terp turns infrastructure you own into a cloud: install it on your own hardware and get an API-driven platform for running containerized applications, with gateways, networking, firewalls, mTLS, secrets and access control built in.
 
-Terp is built in .NET by [Tremoot](https://tremoot.com) and builds on proven open source components.
+Terp is built in .NET by [Tremoot B.V.](https://tremoot.com) and builds on proven open source components.
 
 > **Status: early development.** Terp is in its first phase (walking skeleton). It is not ready for production use, and the API will change.
 
@@ -69,7 +69,7 @@ Terp is **source-available, not open source.** See [LICENSE](LICENSE) for the fu
 
 The API clients, the `terp` CLI and the Terraform provider will be released under the Apache License 2.0.
 
-Contact Tremoot for production licenses.
+Contact Tremoot at [info@tremoot.com](mailto:info@tremoot.com) for production licenses.
 
 ## Contributing
 
@@ -85,4 +85,4 @@ Please do not report security vulnerabilities in public issues. Use GitHub's pri
 
 ---
 
-Copyright © 2026 Tremoot. All rights reserved.
+Copyright © 2026 Tremoot B.V. All rights reserved.

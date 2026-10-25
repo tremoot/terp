@@ -226,7 +226,7 @@ builder.AddResourceType<SettingSpec, SettingStatus>("setting")
 - Worden Windows-containers ondersteund (voor .NET Framework-apps), of alleen Linux?
 - Definitieve terminologie (§6) en het API-pad (§8).
 - Mag Terp zelf client-certificaten voor partners uitgeven, of brengen klanten altijd hun eigen CA mee?
-- Licentie: definitie van "non-profit" (vallen ziekenhuizen, scholen en overheid hieronder?) en van "productiegebruik".
+- Licentie: definities van "non-profit" en "productiegebruik" staan als concept in `LICENSE`; nog te laten bevestigen door een IT-jurist.
 - Licentie: voorwaarden voor MSP's/hosters die Terp aan hun eigen klanten aanbieden.
 
 ## 13. Besluitenlog
@@ -247,3 +247,5 @@ builder.AddResourceType<SettingSpec, SettingStatus>("setting")
 | 2026-10 | GitHub (`tremoot/terp`) voor repository en CI, niet Azure DevOps |
 | 2026-10 | `AGENTS.md` is de enige bron van agent-instructies; `CLAUDE.md` verwijst ernaar |
 | 2026-10 | Forken alleen met schriftelijke toestemming van Tremoot (concept-LICENSE) |
+| 2026-10 | Non-profit (concept): ANBI of buitenlands equivalent; overheid, zorg, onderwijs/onderzoek en woningcorporaties uitgesloten |
+| 2026-10 | Bevoegde rechter: Amsterdam (gelijk aan de algemene voorwaarden van Tremoot B.V.) |

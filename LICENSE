@@ -5,7 +5,7 @@ NOTICE: This is a draft that has not yet been reviewed by a lawyer. Until a
 final version is published, Tremoot reserves all rights not expressly granted
 below.
 
-Copyright (c) 2026 Tremoot. All rights reserved.
+Copyright (c) 2026 Tremoot B.V. All rights reserved.
 
 Terp is source-available software. It is NOT open source software. You may
 read and evaluate the source code, but production use requires a separate
@@ -14,8 +14,10 @@ license from Tremoot.
 
 1. Definitions
 
-"Tremoot" means [legal entity name, registered office and Chamber of Commerce
-(KvK) number], the owner and maintainer of the Software.
+"Tremoot" means Tremoot B.V., a private limited liability company with its
+registered office in Amsterdam, the Netherlands (Sierenborch 4b, 1043 BA
+Amsterdam), registered with the Dutch Chamber of Commerce (KvK) under number
+85752304, the owner and maintainer of the Software.
 
 "Software" means the Terp source code, object code, documentation and any
 other material in this repository, including any modification or derivative
@@ -37,11 +39,29 @@ or public service.
 
 "Production Use" means any use that is not Non-Production Use.
 
-"Non-Profit Organization" means [DEFINITION TO BE DETERMINED — for example: an
-organization recognized as a charitable institution under applicable law, such
-as an ANBI in the Netherlands, excluding government bodies, healthcare
-institutions and educational institutions unless Tremoot agrees otherwise in
-writing].
+"Non-Profit Organization" means a legal entity that meets all of the
+following conditions:
+
+  a. it is organized and operated without a profit motive, and does not
+     distribute profits to its members, shareholders or directors;
+
+  b. it is recognized as a public benefit or charitable organization under
+     the law of the country where it is established (in the Netherlands: an
+     Algemeen Nut Beogende Instelling (ANBI) registered with the Dutch Tax
+     Administration);
+
+  c. it is not a government body, public authority or other public-law
+     entity, and is not controlled by one;
+
+  d. it is not a healthcare or care institution, an educational or research
+     institution, or a housing corporation, regardless of its legal form or
+     tax status; and
+
+  e. it is not controlled by, and does not use the Software on behalf of, an
+     entity that does not itself meet these conditions.
+
+Tremoot may, at its sole discretion and in writing, treat an organization
+that does not meet all of these conditions as a Non-Profit Organization.
 
 "Production License" means a separate written license agreement between You
 and Tremoot that permits Production Use.
@@ -166,10 +186,10 @@ management.
 
 This license is governed by the laws of the Netherlands. Any dispute arising
 from or related to this license is submitted exclusively to the competent
-court in [city], the Netherlands.
+court in Amsterdam, the Netherlands.
 
 
 13. Contact
 
 For Production Licenses, Non-Profit applications, permission to Fork and other
-questions about this license, contact Tremoot at [licensing contact].
+questions about this license, contact Tremoot B.V. at info@tremoot.com.
